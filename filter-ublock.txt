@@ -1,0 +1,22 @@
+# HOW TO ADD TO UBLOCK ORIGIN ? go to ublock origin settings,my filters and click import
+
+! 2022-03-14 https://top.gg
+top.gg###popover-body-4 > .css-112igrq > .css-1oelu3b.chakra-stack > .css-12wcxte.chakra-stack > .css-qvwmg3.chakra-stack.chakra-link
+top.gg##section.css-t4wzpe.chakra-stack > .css-1gvsyhj.chakra-stack
+top.gg##.css-1zk9y0
+top.gg##.css-2piam9
+top.gg##.css-bf3cs0.chakra-stack > .css-1s7i29z.chakra-text
+top.gg##.css-bf3cs0.chakra-stack > .css-k3i669.chakra-text
+top.gg##.css-139kfgt.chakra-text.chakra-stack
+top.gg##.css-13i22tj.chakra-icon
+top.gg###popover-trigger-63 > .css-a4do4s.chakra-button
+top.gg##section.css-t4wzpe.chakra-stack:nth-of-type(1)
+top.gg##.css-70qvj9 > .css-a4do4s.chakra-button
+top.gg##.css-k8jema.chakra-stack > .css-70qvj9
+! 2022-03-26 https://top.gg
+top.gg##a.css-ztdo1d.chakra-link > .css-0.chakra-text
+top.gg##a.css-ztdo1d.chakra-link:nth-of-type(2)
+top.gg##div.css-trv47m.chakra-stack > div > .css-0.chakra-text
+! topgg domain blocking
+||/dao$domain=top.gg
+||auctions.top.gg

@@ -20,3 +20,23 @@ top.gg##div.css-trv47m.chakra-stack > div > .css-0.chakra-text
 ! topgg domain blocking
 ||/dao$domain=top.gg
 ||auctions.top.gg
+! 2022-03-27 https://top.gg
+top.gg##section.css-t4wzpe.chakra-stack:nth-of-type(3)
+top.gg##section.css-t4wzpe.chakra-stack:nth-of-type(2)
+top.gg##div.css-0:nth-of-type(3)
+top.gg##div.css-1gh8nrn.chakra-stack:nth-of-type(5)
+top.gg##.css-4se7d9 > svg
+top.gg##.css-i19djo.chakra-stack
+top.gg##article.css-1xgcd9o.chakra-stack:nth-of-type(1)
+top.gg##article.css-1xgcd9o.chakra-stack:nth-of-type(2)
+top.gg##li.css-ay5wn:nth-of-type(1)
+top.gg##li.css-ay5wn:nth-of-type(6)
+top.gg##.css-98vs04.chakra-button
+top.gg##a.css-118im9p.chakra-link:nth-of-type(72)
+  top.gg##.css-1b01518.chakra-text
+top.gg##div.css-16wapov:nth-of-type(4)
+top.gg##li.css-ay5wn:nth-of-type(13)
+top.gg##li.css-ay5wn:nth-of-type(14)
+top.gg###tabs-5--tab-1
+top.gg###tabs-5--tab-0 > .css-qcgltu.chakra-stack > .css-847amg.chakra-stack > .css-0.chakra-text
+.gg/dao

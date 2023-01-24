@@ -1,3 +1,4 @@
+[uBlock Origin]
 # HOW TO ADD TO UBLOCK ORIGIN ? go to ublock origin settings,my filters and click import
 
 ! 2022-03-14 https://top.gg
